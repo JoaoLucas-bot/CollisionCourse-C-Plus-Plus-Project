@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>resources/images/bg_02_resized.png</file>
+        <file>resources/images/f1_white_01_resized.png</file>
+        <file>resources/images/traffic_green.png</file>
+        <file>resources/images/traffic_red.png</file>
+        <file>resources/images/f1_black_01_resized.png</file>
+        <file>resources/images/sport_red_01_resized.png</file>
+        <file>resources/images/sedan_yellow_01_resized.png</file>
+    </qresource>
+    <qresource prefix="/music">
+        <file>resources/music/Initial D-Deja Vu.mp3</file>
+        <file>resources/music/car_explosion2.wav</file>
+        <file>resources/music/car_explosion.wav</file>
+    </qresource>
+</RCC>
